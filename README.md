@@ -1,5 +1,5 @@
 # Customer_shopping_trend
-Data analysis of Customer and their shopping trend using Pyhton, SQL and Power BI.
+Data analysis of Customer and their shopping trend using Python, SQL and Power BI.
 
 Data Analytics Project
 
